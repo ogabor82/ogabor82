@@ -1,13 +1,17 @@
 ## Hi there 👋
 
-## 🎨 Frontend 
+## 🎨 Frontend (previous senior experience)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40"/>
 </p>
+
+Senior-level experience in modern web architecture and UX-driven interfaces
 
 ---
 
