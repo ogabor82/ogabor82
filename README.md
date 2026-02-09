@@ -3,7 +3,7 @@ Frontend-heavy Fullstack Software Engineer
 with a strong interest in **AI, LLMs, and agent-based systems**.
 
 
-## 🎨 Frontend (previous senior experience)
+## 🎨 Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
