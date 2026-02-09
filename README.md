@@ -27,6 +27,23 @@
 
 ---
 
+## 🧠 AI & Agent Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+### LLM / Agent stack
+
+![LangChain](https://img.shields.io/badge/LangChain-Agent%20Framework-0ea5e9)
+![LangGraph](https://img.shields.io/badge/LangGraph-Stateful%20Agents-6366f1)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM%20API-10a37f)
+![LM%20Studio](https://img.shields.io/badge/LM%20Studio-Local%20Inference-9333ea)
+
+---
+
 <!--
 **ogabor82/ogabor82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
