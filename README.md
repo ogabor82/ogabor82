@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Gábor 👋
+Frontend-heavy Fullstack Software Engineer  
+with a strong interest in **AI, LLMs, and agent-based systems**.
+
 
 ## 🎨 Frontend (previous senior experience)
 
