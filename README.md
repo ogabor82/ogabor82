@@ -9,6 +9,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
+---
+
+## ⚙️ Backend & Data
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+</p>
+
+- REST API design & microservices  
+- Data pipelines & background workers  
+- Automation, integrations & AI-ready backends  
+
+
+---
+
 <!--
 **ogabor82/ogabor82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
